@@ -10,6 +10,7 @@ packages = [{include = "app_store_connect_api_client"}]
 python = "^3.9"
 requests = "^2.31.0"
 authlib = "^1.2.0"
+pandas = "^2.0.2"
 
 
 [build-system]
